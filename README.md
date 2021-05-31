@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Stuff**
 
-- 🌱 I’m currently learning **Java, and HTML5**
+- 🏠 I’m currently learning **Java, and HTML5**
 
-- 👨‍💻 All of my projects will be available [soon](soon)
+- 🐺 All of my projects will be available [soon](soon)
 
 - 💬 Ask me about **anything**
 
