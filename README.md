@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Wojtek</h1>
 <h3 align="center">I'm a first year programming/economy student</h3>
 
-- 🔭 I’m currently working on **Stuff**
+- 🔭 I’m currently working on **Trying to pass some Java exams**
 
 - 🏠 I’m currently learning **Java, and HTML5**
 
