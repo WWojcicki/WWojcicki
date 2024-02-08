@@ -8,7 +8,7 @@
   
 - 🔭 I’m currently working on **Getting a job**
   
-- 🏠 I’m learning **PowerBI**
+- 🏠 I’m learning **PowerBI**, **Spring**
   
 - 💬 Ask me about **anything**
   
